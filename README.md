@@ -8,7 +8,7 @@
 
 Hello everyone! 
 
-I'm BOULANGER Constantin, CTO of the MDWeb agency. We are a Lille agency specialized in the creation and maintenance of e-commerce websites.
+I'm BOULANGER Constantin, CTO of the MDWeb agency. We are a **Prestashop Platinum partner**, specialized in the creation and maintenance of e-commerce websites.
 
 I'm also a blogger on [https://constantin-boulanger.fr](https://constantin-boulanger.fr) where I share my technical and e-commerce experience to the greatest number.
 
